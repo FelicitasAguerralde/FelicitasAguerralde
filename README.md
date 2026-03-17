@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ Sobre mí
 Mi nombre es **Felicitas Aguerralde**
-Soy desarrolladora full stack junior y profesora de matemática
+<br />Soy desarrolladora full stack junior y profesora de matemática
 
 🌍 Vivo en Argentina  
 ✉️ Contacto: [felicitas.aguerralde@gmail.com](mailto:felicitas.aguerralde@gmail.com)

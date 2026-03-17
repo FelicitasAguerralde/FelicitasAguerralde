@@ -1,15 +1,15 @@
-# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" /> Hola! 
+# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" /> Hi!
 
-## 🙋‍♀️ Sobre mí
-Mi nombre es **Felicitas Aguerralde**
-<br />Soy desarrolladora full stack junior y profesora de matemática
+## 🙋‍♀️ About me
+My name is **Felicitas Aguerralde**  
+<br />I am a junior full stack developer and a mathematics teacher
 
-🌍 Vivo en Argentina  
-✉️ Contacto: [felicitas.aguerralde@gmail.com](mailto:felicitas.aguerralde@gmail.com)
+🌍 Based in Argentina  
+✉️ Contact: [felicitas.aguerralde@gmail.com](mailto:felicitas.aguerralde@gmail.com)
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Technologies
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -30,7 +30,7 @@ Mi nombre es **Felicitas Aguerralde**
 
 ---
 
-## 🌐 Redes sociales
+## 🌐 Socials
 
 <p align="left">
 <a href="https://www.github.com/FelicitasAguerralde"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
@@ -41,7 +41,7 @@ Mi nombre es **Felicitas Aguerralde**
 
 ---
 
-## 📊 Estadísticas
+## 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=FelicitasAguerralde&show_icons=true&theme=dark&hide_border=true" />
 
@@ -51,4 +51,6 @@ Mi nombre es **Felicitas Aguerralde**
 
 ---
 
-✨ Siempre aprendiendo y creando cosas nuevas
+✨ Always learning and building new things
+💼 Open to work  
+🌱 Currently learning: ...

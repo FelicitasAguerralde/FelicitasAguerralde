@@ -29,6 +29,4 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <a href="https://github.com/FelicitasAguerralde" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelicitasAguerralde&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Principales repositorios</b>
-
 <div width="100%" align="center"> </div><br /><br /><br /><br /><br /><br /><br />
